@@ -1,0 +1,12 @@
+
+
+train: ../yolov5c21/train_data/images/train/ 
+val: ../yolov5c21/train_data/images/val/  
+
+# Number of Classes
+nc: 1 
+
+# Class names
+names: ['sign']
+
+
